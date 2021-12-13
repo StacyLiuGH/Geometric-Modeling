@@ -1,0 +1,11 @@
+matplotlib
+numpy
+scipy
+keras
+h5py
+ipykernel
+opencv-python
+tensorflow>=2.4.0
+tqdm
+trimesh
+pyglet
