@@ -12,8 +12,12 @@ Python 3.6, Tensorflow 2.4
 ### Run demo
 > $ python run_detect.py
 
+[More information](https://sites.google.com/tamu.edu/tingliu-csce645-course-project/final-report).
 
 ### Source
 https://github.com/akanazawa/hmr
 
 https://github.com/russoale/hmr2.0
+
+
+
