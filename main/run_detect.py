@@ -12,7 +12,7 @@ from vis_util import preprocess_image, visualize
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Demo HMR-SMPL')
 
-    parser.add_argument('--image', required=False, default='hmr_test17.jpg')
+    parser.add_argument('--image', required=False, default='hmr_test1.jpg')
     parser.add_argument('--model', required=False, default='base_model')
     parser.add_argument('--setting', required=False, default='ckpt')
     parser.add_argument('--joint_type', required=False, default='cocoplus')
