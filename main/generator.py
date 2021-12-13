@@ -84,8 +84,8 @@ class Generator(tf.keras.Model):
 		
         # extract features from an input image
         features = self.resnet50V2(inputs, **kwargs)
-        print('resnet50V2 features shape: ')
-        print(features.shape)
+        #print('resnet50V2 features shape: ')
+        #print(features.shape)
 
         # regressor: from image features to SMPL parameters
         thetas = self.regressor(features, **kwargs)
