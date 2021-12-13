@@ -1,4 +1,4 @@
-# Geometric-Modeling
+# 3D Human Mesh Reconstruction
 A fast SMPL generator from a single wild input image.
 
 ### Requirements
